@@ -4,11 +4,11 @@
   * enter new books into the database
   * update book information
   * delete books from the database
-  * search the database to find a specific book.
+  * search the database to find a specific book
 
 * Create a database called ebookstore and a table called books.
 
-* Populate the table with the above values. You can also add your own values if you wish.
+* Populate the table with the above values. I can also add my own values if I wish.
 
 * The program should present the user with the following menu:
   ```
@@ -18,4 +18,4 @@
     4. Search books 
     0. Exit
   ```
-  The program should perform the function that the user selects. The implementation of these functions are left up to you.
+  The program should perform the function that the user selects. The implementation of these functions are left up to me.
