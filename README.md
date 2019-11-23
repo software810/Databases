@@ -18,4 +18,4 @@
     4. Search books 
     0. Exit
   ```
-  The program should perform the function that the user selects. The implementation of these functions are left up to me
+ * The program should perform the function that the user selects. The implementation of these functions are left up to me
